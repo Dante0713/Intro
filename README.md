@@ -11,4 +11,4 @@ My last conference paper power point:
 
 My personal website:
 
-  https://dante0713.herokuapp.com/home/
+  https://dante0713.herokuapp.com/
